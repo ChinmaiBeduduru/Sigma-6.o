@@ -1,2 +1,2 @@
 # Sigma-6.o
-learning about git and github
+learning about git and github :)
